@@ -1,2 +1,3 @@
 # Primer proyecto
-## ACMC
+## Construcción de software
+Autor: ACMC
